@@ -1,2 +1,2 @@
-# bedelle
-This is a simple hotel html pages 
+# Bedelle
+This is a simple hotel website html pages. 
